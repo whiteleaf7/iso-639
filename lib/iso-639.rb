@@ -99,6 +99,13 @@ class ISO_639 < Array
       end
     end
 
+    # Returns the entry array for a language specified by its Japanese name.
+    def find_by_japanese_name(name)
+      ISO_639_2.detect do |entry|
+        entry if entry.japanese_name == name
+      end
+    end
+
     # Returns an array of matches for the search term. The term can be a code
     # of any kind, or it can be one of the words contained in the English or
     # French name field.
@@ -137,5 +144,10 @@ class ISO_639 < Array
   # The entry's french name.
   def french_name
     self[4]
+  end
+
+  # The entry's japanese name.
+  def japanese_name
+    self[5]
   end
 end
