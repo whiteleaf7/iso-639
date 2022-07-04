@@ -20,20 +20,24 @@ describe ISO_639 do
   end
 
   it 'should return entry for alpha-2 code' do
-    assert_equal ['eng', '', 'en', 'English', 'anglais'], ISO_639.find_by_code('en')
-    assert_equal ['eng', '', 'en', 'English', 'anglais'], ISO_639.find('en')
+    assert_equal ['eng', '', 'en', 'English', 'anglais', '英語'], ISO_639.find_by_code('en')
+    assert_equal ['eng', '', 'en', 'English', 'anglais', '英語'], ISO_639.find('en')
   end
 
   it 'should return entry for alpha-3 terminologic code' do
-    assert_equal %w[ger deu de German allemand], ISO_639.find('deu')
+    assert_equal %w[ger deu de German allemand ドイツ語], ISO_639.find('deu')
   end
 
   it 'should find by english name' do
-    assert_equal ['eng', '', 'en', 'English', 'anglais'], ISO_639.find_by_english_name('English')
+    assert_equal ['eng', '', 'en', 'English', 'anglais', '英語'], ISO_639.find_by_english_name('English')
   end
 
   it 'should find by french name' do
-    assert_equal ['eng', '', 'en', 'English', 'anglais'], ISO_639.find_by_french_name('anglais')
+    assert_equal ['eng', '', 'en', 'English', 'anglais', '英語'], ISO_639.find_by_french_name('anglais')
+  end
+
+  it 'should find by japanese name' do
+    assert_equal ['eng', '', 'en', 'English', 'anglais', '英語'], ISO_639.find_by_japanese_name('英語')
   end
 
   %w[
@@ -54,14 +58,14 @@ describe ISO_639 do
 
   it 'should return single record array by searching a unique code' do
     assert_equal(
-      [['spa', '', 'es', 'Spanish; Castilian', 'espagnol; castillan']],
+      [['spa', '', 'es', 'Spanish; Castilian', 'espagnol; castillan', 'スペイン語']],
       ISO_639.search('es')
     )
   end
 
   it 'should return single record array by searching a unique term' do
     assert_equal(
-      [['spa', '', 'es', 'Spanish; Castilian', 'espagnol; castillan']],
+      [['spa', '', 'es', 'Spanish; Castilian', 'espagnol; castillan', 'スペイン語']],
       ISO_639.search('spanish')
     )
   end
@@ -69,8 +73,8 @@ describe ISO_639 do
   it 'should return multiple record array by searching a common term' do
     assert_equal(
       [
-        ['egy', '', '', 'Egyptian (Ancient)', 'égyptien'],
-        ['grc', '', '', 'Greek, Ancient (to 1453)', "grec ancien (jusqu'à 1453)"]
+        ['egy', '', '', 'Egyptian (Ancient)', 'égyptien', '古代エジプト語'],
+        ['grc', '', '', 'Greek, Ancient (to 1453)', "grec ancien (jusqu'à 1453)", 'ギリシア語，古代'],
       ],
       ISO_639.search('ancient')
     )
@@ -88,7 +92,7 @@ describe ISO_639 do
 
   it 'should return single record array by searching a unique multi-word term' do
     assert_equal(
-      [['ypk', '', '', 'Yupik languages', 'yupik, langues']],
+      [['ypk', '', '', 'Yupik languages', 'yupik, langues', 'ユピック語']],
       ISO_639.search('yupik, langues')
     )
   end

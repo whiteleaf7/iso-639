@@ -1,487 +1,487 @@
-﻿aar||aa|Afar|afar
-abk||ab|Abkhazian|abkhaze
-ace|||Achinese|aceh
-ach|||Acoli|acoli
-ada|||Adangme|adangme
-ady|||Adyghe; Adygei|adyghé
-afa|||Afro-Asiatic languages|afro-asiatiques, langues
-afh|||Afrihili|afrihili
-afr||af|Afrikaans|afrikaans
-ain|||Ainu|aïnou
-aka||ak|Akan|akan
-akk|||Akkadian|akkadien
-alb|sqi|sq|Albanian|albanais
-ale|||Aleut|aléoute
-alg|||Algonquian languages|algonquines, langues
-alt|||Southern Altai|altai du Sud
-amh||am|Amharic|amharique
-ang|||English, Old (ca.450-1100)|anglo-saxon (ca.450-1100)
-anp|||Angika|angika
-apa|||Apache languages|apaches, langues
-ara||ar|Arabic|arabe
-arc|||Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)|araméen d'empire (700-300 BCE)
-arg||an|Aragonese|aragonais
-arm|hye|hy|Armenian|arménien
-arn|||Mapudungun; Mapuche|mapudungun; mapuche; mapuce
-arp|||Arapaho|arapaho
-art|||Artificial languages|artificielles, langues
-arw|||Arawak|arawak
-asm||as|Assamese|assamais
-ast|||Asturian; Bable; Leonese; Asturleonese|asturien; bable; léonais; asturoléonais
-ath|||Athapascan languages|athapascanes, langues
-aus|||Australian languages|australiennes, langues
-ava||av|Avaric|avar
-ave||ae|Avestan|avestique
-awa|||Awadhi|awadhi
-aym||ay|Aymara|aymara
-aze||az|Azerbaijani|azéri
-bad|||Banda languages|banda, langues
-bai|||Bamileke languages|bamiléké, langues
-bak||ba|Bashkir|bachkir
-bal|||Baluchi|baloutchi
-bam||bm|Bambara|bambara
-ban|||Balinese|balinais
-baq|eus|eu|Basque|basque
-bas|||Basa|basa
-bat|||Baltic languages|baltes, langues
-bej|||Beja; Bedawiyet|bedja
-bel||be|Belarusian|biélorusse
-bem|||Bemba|bemba
-ben||bn|Bengali|bengali
-ber|||Berber languages|berbères, langues
-bho|||Bhojpuri|bhojpuri
-bih||bh|Bihari languages|langues biharis
-bik|||Bikol|bikol
-bin|||Bini; Edo|bini; edo
-bis||bi|Bislama|bichlamar
-bla|||Siksika|blackfoot
-bnt|||Bantu languages|bantou, langues
-bos||bs|Bosnian|bosniaque
-bra|||Braj|braj
-bre||br|Breton|breton
-btk|||Batak languages|batak, langues
-bua|||Buriat|bouriate
-bug|||Buginese|bugi
-bul||bg|Bulgarian|bulgare
-bur|mya|my|Burmese|birman
-byn|||Blin; Bilin|blin; bilen
-cad|||Caddo|caddo
-cai|||Central American Indian languages|amérindiennes de L'Amérique centrale, langues
-car|||Galibi Carib|karib; galibi; carib
-cat||ca|Catalan; Valencian|catalan; valencien
-cau|||Caucasian languages|caucasiennes, langues
-ceb|||Cebuano|cebuano
-cel|||Celtic languages|celtiques, langues; celtes, langues
-cha||ch|Chamorro|chamorro
-chb|||Chibcha|chibcha
-che||ce|Chechen|tchétchène
-chg|||Chagatai|djaghataï
-chi|zho|zh|Chinese|chinois
-chk|||Chuukese|chuuk
-chm|||Mari|mari
-chn|||Chinook jargon|chinook, jargon
-cho|||Choctaw|choctaw
-chp|||Chipewyan; Dene Suline|chipewyan
-chr|||Cherokee|cherokee
-chu||cu|Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic|slavon d'église; vieux slave; slavon liturgique; vieux bulgare
-chv||cv|Chuvash|tchouvache
-chy|||Cheyenne|cheyenne
-cmc|||Chamic languages|chames, langues
-cnr|||Montenegrin|monténégrin
-cop|||Coptic|copte
-cor||kw|Cornish|cornique
-cos||co|Corsican|corse
-cpe|||Creoles and pidgins, English based|créoles et pidgins basés sur l'anglais
-cpf|||Creoles and pidgins, French-based|créoles et pidgins basés sur le français
-cpp|||Creoles and pidgins, Portuguese-based|créoles et pidgins basés sur le portugais
-cre||cr|Cree|cree
-crh|||Crimean Tatar; Crimean Turkish|tatar de Crimé
-crp|||Creoles and pidgins|créoles et pidgins
-csb|||Kashubian|kachoube
-cus|||Cushitic languages|couchitiques, langues
-cze|ces|cs|Czech|tchèque
-dak|||Dakota|dakota
-dan||da|Danish|danois
-dar|||Dargwa|dargwa
-day|||Land Dayak languages|dayak, langues
-del|||Delaware|delaware
-den|||Slave (Athapascan)|esclave (athapascan)
-dgr|||Dogrib|dogrib
-din|||Dinka|dinka
-div||dv|Divehi; Dhivehi; Maldivian|maldivien
-doi|||Dogri|dogri
-dra|||Dravidian languages|dravidiennes, langues
-dsb|||Lower Sorbian|bas-sorabe
-dua|||Duala|douala
-dum|||Dutch, Middle (ca.1050-1350)|néerlandais moyen (ca. 1050-1350)
-dut|nld|nl|Dutch; Flemish|néerlandais; flamand
-dyu|||Dyula|dioula
-dzo||dz|Dzongkha|dzongkha
-efi|||Efik|efik
-egy|||Egyptian (Ancient)|égyptien
-eka|||Ekajuk|ekajuk
-elx|||Elamite|élamite
-eng||en|English|anglais
-enm|||English, Middle (1100-1500)|anglais moyen (1100-1500)
-epo||eo|Esperanto|espéranto
-est||et|Estonian|estonien
-ewe||ee|Ewe|éwé
-ewo|||Ewondo|éwondo
-fan|||Fang|fang
-fao||fo|Faroese|féroïen
-fat|||Fanti|fanti
-fij||fj|Fijian|fidjien
-fil|||Filipino; Pilipino|filipino; pilipino
-fin||fi|Finnish|finnois
-fiu|||Finno-Ugrian languages|finno-ougriennes, langues
-fon|||Fon|fon
-fre|fra|fr|French|français
-frm|||French, Middle (ca.1400-1600)|français moyen (1400-1600)
-fro|||French, Old (842-ca.1400)|français ancien (842-ca.1400)
-frr|||Northern Frisian|frison septentrional
-frs|||Eastern Frisian|frison oriental
-fry||fy|Western Frisian|frison occidental
-ful||ff|Fulah|peul
-fur|||Friulian|frioulan
-gaa|||Ga|ga
-gay|||Gayo|gayo
-gba|||Gbaya|gbaya
-gem|||Germanic languages|germaniques, langues
-geo|kat|ka|Georgian|géorgien
-ger|deu|de|German|allemand
-gez|||Geez|guèze
-gil|||Gilbertese|kiribati
-gla||gd|Gaelic; Scottish Gaelic|gaélique; gaélique écossais
-gle||ga|Irish|irlandais
-glg||gl|Galician|galicien
-glv||gv|Manx|manx; mannois
-gmh|||German, Middle High (ca.1050-1500)|allemand, moyen haut (ca. 1050-1500)
-goh|||German, Old High (ca.750-1050)|allemand, vieux haut (ca. 750-1050)
-gon|||Gondi|gond
-gor|||Gorontalo|gorontalo
-got|||Gothic|gothique
-grb|||Grebo|grebo
-grc|||Greek, Ancient (to 1453)|grec ancien (jusqu'à 1453)
-gre|ell|el|Greek, Modern (1453-)|grec moderne (après 1453)
-grn||gn|Guarani|guarani
-gsw|||Swiss German; Alemannic; Alsatian|suisse alémanique; alémanique; alsacien
-guj||gu|Gujarati|goudjrati
-gwi|||Gwich'in|gwich'in
-hai|||Haida|haida
-hat||ht|Haitian; Haitian Creole|haïtien; créole haïtien
-hau||ha|Hausa|haoussa
-haw|||Hawaiian|hawaïen
-heb||he|Hebrew|hébreu
-her||hz|Herero|herero
-hil|||Hiligaynon|hiligaynon
-him|||Himachali languages; Western Pahari languages|langues himachalis; langues paharis occidentales
-hin||hi|Hindi|hindi
-hit|||Hittite|hittite
-hmn|||Hmong; Mong|hmong
-hmo||ho|Hiri Motu|hiri motu
-hrv||hr|Croatian|croate
-hsb|||Upper Sorbian|haut-sorabe
-hun||hu|Hungarian|hongrois
-hup|||Hupa|hupa
-iba|||Iban|iban
-ibo||ig|Igbo|igbo
-ice|isl|is|Icelandic|islandais
-ido||io|Ido|ido
-iii||ii|Sichuan Yi; Nuosu|yi de Sichuan
-ijo|||Ijo languages|ijo, langues
-iku||iu|Inuktitut|inuktitut
-ile||ie|Interlingue; Occidental|interlingue
-ilo|||Iloko|ilocano
-ina||ia|Interlingua (International Auxiliary Language Association)|interlingua (langue auxiliaire internationale)
-inc|||Indic languages|indo-aryennes, langues
-ind||id|Indonesian|indonésien
-ine|||Indo-European languages|indo-européennes, langues
-inh|||Ingush|ingouche
-ipk||ik|Inupiaq|inupiaq
-ira|||Iranian languages|iraniennes, langues
-iro|||Iroquoian languages|iroquoises, langues
-ita||it|Italian|italien
-jav||jv|Javanese|javanais
-jbo|||Lojban|lojban
-jpn||ja|Japanese|japonais
-jpr|||Judeo-Persian|judéo-persan
-jrb|||Judeo-Arabic|judéo-arabe
-kaa|||Kara-Kalpak|karakalpak
-kab|||Kabyle|kabyle
-kac|||Kachin; Jingpho|kachin; jingpho
-kal||kl|Kalaallisut; Greenlandic|groenlandais
-kam|||Kamba|kamba
-kan||kn|Kannada|kannada
-kar|||Karen languages|karen, langues
-kas||ks|Kashmiri|kashmiri
-kau||kr|Kanuri|kanouri
-kaw|||Kawi|kawi
-kaz||kk|Kazakh|kazakh
-kbd|||Kabardian|kabardien
-kha|||Khasi|khasi
-khi|||Khoisan languages|khoïsan, langues
-khm||km|Central Khmer|khmer central
-kho|||Khotanese; Sakan|khotanais; sakan
-kik||ki|Kikuyu; Gikuyu|kikuyu
-kin||rw|Kinyarwanda|rwanda
-kir||ky|Kirghiz; Kyrgyz|kirghiz
-kmb|||Kimbundu|kimbundu
-kok|||Konkani|konkani
-kom||kv|Komi|kom
-kon||kg|Kongo|kongo
-kor||ko|Korean|coréen
-kos|||Kosraean|kosrae
-kpe|||Kpelle|kpellé
-krc|||Karachay-Balkar|karatchai balkar
-krl|||Karelian|carélien
-kro|||Kru languages|krou, langues
-kru|||Kurukh|kurukh
-kua||kj|Kuanyama; Kwanyama|kuanyama; kwanyama
-kum|||Kumyk|koumyk
-kur||ku|Kurdish|kurde
-kut|||Kutenai|kutenai
-lad|||Ladino|judéo-espagnol
-lah|||Lahnda|lahnda
-lam|||Lamba|lamba
-lao||lo|Lao|lao
-lat||la|Latin|latin
-lav||lv|Latvian|letton
-lez|||Lezghian|lezghien
-lim||li|Limburgan; Limburger; Limburgish|limbourgeois
-lin||ln|Lingala|lingala
-lit||lt|Lithuanian|lituanien
-lol|||Mongo|mongo
-loz|||Lozi|lozi
-ltz||lb|Luxembourgish; Letzeburgesch|luxembourgeois
-lua|||Luba-Lulua|luba-lulua
-lub||lu|Luba-Katanga|luba-katanga
-lug||lg|Ganda|ganda
-lui|||Luiseno|luiseno
-lun|||Lunda|lunda
-luo|||Luo (Kenya and Tanzania)|luo (Kenya et Tanzanie)
-lus|||Lushai|lushai
-mac|mkd|mk|Macedonian|macédonien
-mad|||Madurese|madourais
-mag|||Magahi|magahi
-mah||mh|Marshallese|marshall
-mai|||Maithili|maithili
-mak|||Makasar|makassar
-mal||ml|Malayalam|malayalam
-man|||Mandingo|mandingue
-mao|mri|mi|Maori|maori
-map|||Austronesian languages|austronésiennes, langues
-mar||mr|Marathi|marathe
-mas|||Masai|massaï
-may|msa|ms|Malay|malais
-mdf|||Moksha|moksa
-mdr|||Mandar|mandar
-men|||Mende|mendé
-mga|||Irish, Middle (900-1200)|irlandais moyen (900-1200)
-mic|||Mi'kmaq; Micmac|mi'kmaq; micmac
-min|||Minangkabau|minangkabau
-mis|||Uncoded languages|langues non codées
-mkh|||Mon-Khmer languages|môn-khmer, langues
-mlg||mg|Malagasy|malgache
-mlt||mt|Maltese|maltais
-mnc|||Manchu|mandchou
-mni|||Manipuri|manipuri
-mno|||Manobo languages|manobo, langues
-moh|||Mohawk|mohawk
-mon||mn|Mongolian|mongol
-mos|||Mossi|moré
-mul|||Multiple languages|multilingue
-mun|||Munda languages|mounda, langues
-mus|||Creek|muskogee
-mwl|||Mirandese|mirandais
-mwr|||Marwari|marvari
-myn|||Mayan languages|maya, langues
-myv|||Erzya|erza
-nah|||Nahuatl languages|nahuatl, langues
-nai|||North American Indian languages|nord-amérindiennes, langues
-nap|||Neapolitan|napolitain
-nau||na|Nauru|nauruan
-nav||nv|Navajo; Navaho|navaho
-nbl||nr|Ndebele, South; South Ndebele|ndébélé du Sud
-nde||nd|Ndebele, North; North Ndebele|ndébélé du Nord
-ndo||ng|Ndonga|ndonga
-nds|||Low German; Low Saxon; German, Low; Saxon, Low|bas allemand; bas saxon; allemand, bas; saxon, bas
-nep||ne|Nepali|népalais
-new|||Nepal Bhasa; Newari|nepal bhasa; newari
-nia|||Nias|nias
-nic|||Niger-Kordofanian languages|nigéro-kordofaniennes, langues
-niu|||Niuean|niué
-nno||nn|Norwegian Nynorsk; Nynorsk, Norwegian|norvégien nynorsk; nynorsk, norvégien
-nob||nb|Bokmål, Norwegian; Norwegian Bokmål|norvégien bokmål
-nog|||Nogai|nogaï; nogay
-non|||Norse, Old|norrois, vieux
-nor||no|Norwegian|norvégien
-nqo|||N'Ko|n'ko
-nso|||Pedi; Sepedi; Northern Sotho|pedi; sepedi; sotho du Nord
-nub|||Nubian languages|nubiennes, langues
-nwc|||Classical Newari; Old Newari; Classical Nepal Bhasa|newari classique
-nya||ny|Chichewa; Chewa; Nyanja|chichewa; chewa; nyanja
-nym|||Nyamwezi|nyamwezi
-nyn|||Nyankole|nyankolé
-nyo|||Nyoro|nyoro
-nzi|||Nzima|nzema
-oci||oc|Occitan (post 1500)|occitan (après 1500)
-oji||oj|Ojibwa|ojibwa
-ori||or|Oriya|oriya
-orm||om|Oromo|galla
-osa|||Osage|osage
-oss||os|Ossetian; Ossetic|ossète
-ota|||Turkish, Ottoman (1500-1928)|turc ottoman (1500-1928)
-oto|||Otomian languages|otomi, langues
-paa|||Papuan languages|papoues, langues
-pag|||Pangasinan|pangasinan
-pal|||Pahlavi|pahlavi
-pam|||Pampanga; Kapampangan|pampangan
-pan||pa|Panjabi; Punjabi|pendjabi
-pap|||Papiamento|papiamento
-pau|||Palauan|palau
-peo|||Persian, Old (ca.600-400 B.C.)|perse, vieux (ca. 600-400 av. J.-C.)
-per|fas|fa|Persian|persan
-phi|||Philippine languages|philippines, langues
-phn|||Phoenician|phénicien
-pli||pi|Pali|pali
-pol||pl|Polish|polonais
-pon|||Pohnpeian|pohnpei
-por||pt|Portuguese|portugais
-pra|||Prakrit languages|prâkrit, langues
-pro|||Provençal, Old (to 1500); Occitan, Old (to 1500)|provençal ancien (jusqu'à 1500); occitan ancien (jusqu'à 1500)
-pus||ps|Pushto; Pashto|pachto
-qaa-qtz|||Reserved for local use|réservée à l'usage local
-que||qu|Quechua|quechua
-raj|||Rajasthani|rajasthani
-rap|||Rapanui|rapanui
-rar|||Rarotongan; Cook Islands Maori|rarotonga; maori des îles Cook
-roa|||Romance languages|romanes, langues
-roh||rm|Romansh|romanche
-rom|||Romany|tsigane
-rum|ron|ro|Romanian; Moldavian; Moldovan|roumain; moldave
-run||rn|Rundi|rundi
-rup|||Aromanian; Arumanian; Macedo-Romanian|aroumain; macédo-roumain
-rus||ru|Russian|russe
-sad|||Sandawe|sandawe
-sag||sg|Sango|sango
-sah|||Yakut|iakoute
-sai|||South American Indian languages|sud-amérindiennes, langues
-sal|||Salishan languages|salishennes, langues
-sam|||Samaritan Aramaic|samaritain
-san||sa|Sanskrit|sanskrit
-sas|||Sasak|sasak
-sat|||Santali|santal
-scn|||Sicilian|sicilien
-sco|||Scots|écossais
-sel|||Selkup|selkoupe
-sem|||Semitic languages|sémitiques, langues
-sga|||Irish, Old (to 900)|irlandais ancien (jusqu'à 900)
-sgn|||Sign Languages|langues des signes
-shn|||Shan|chan
-sid|||Sidamo|sidamo
-sin||si|Sinhala; Sinhalese|singhalais
-sio|||Siouan languages|sioux, langues
-sit|||Sino-Tibetan languages|sino-tibétaines, langues
-sla|||Slavic languages|slaves, langues
-slo|slk|sk|Slovak|slovaque
-slv||sl|Slovenian|slovène
-sma|||Southern Sami|sami du Sud
-sme||se|Northern Sami|sami du Nord
-smi|||Sami languages|sames, langues
-smj|||Lule Sami|sami de Lule
-smn|||Inari Sami|sami d'Inari
-smo||sm|Samoan|samoan
-sms|||Skolt Sami|sami skolt
-sna||sn|Shona|shona
-snd||sd|Sindhi|sindhi
-snk|||Soninke|soninké
-sog|||Sogdian|sogdien
-som||so|Somali|somali
-son|||Songhai languages|songhai, langues
-sot||st|Sotho, Southern|sotho du Sud
-spa||es|Spanish; Castilian|espagnol; castillan
-srd||sc|Sardinian|sarde
-srn|||Sranan Tongo|sranan tongo
-srp||sr|Serbian|serbe
-srr|||Serer|sérère
-ssa|||Nilo-Saharan languages|nilo-sahariennes, langues
-ssw||ss|Swati|swati
-suk|||Sukuma|sukuma
-sun||su|Sundanese|soundanais
-sus|||Susu|soussou
-sux|||Sumerian|sumérien
-swa||sw|Swahili|swahili
-swe||sv|Swedish|suédois
-syc|||Classical Syriac|syriaque classique
-syr|||Syriac|syriaque
-tah||ty|Tahitian|tahitien
-tai|||Tai languages|tai, langues
-tam||ta|Tamil|tamoul
-tat||tt|Tatar|tatar
-tel||te|Telugu|télougou
-tem|||Timne|temne
-ter|||Tereno|tereno
-tet|||Tetum|tetum
-tgk||tg|Tajik|tadjik
-tgl||tl|Tagalog|tagalog
-tha||th|Thai|thaï
-tib|bod|bo|Tibetan|tibétain
-tig|||Tigre|tigré
-tir||ti|Tigrinya|tigrigna
-tiv|||Tiv|tiv
-tkl|||Tokelau|tokelau
-tlh|||Klingon; tlhIngan-Hol|klingon
-tli|||Tlingit|tlingit
-tmh|||Tamashek|tamacheq
-tog|||Tonga (Nyasa)|tonga (Nyasa)
-ton||to|Tonga (Tonga Islands)|tongan (Îles Tonga)
-tpi|||Tok Pisin|tok pisin
-tsi|||Tsimshian|tsimshian
-tsn||tn|Tswana|tswana
-tso||ts|Tsonga|tsonga
-tuk||tk|Turkmen|turkmène
-tum|||Tumbuka|tumbuka
-tup|||Tupi languages|tupi, langues
-tur||tr|Turkish|turc
-tut|||Altaic languages|altaïques, langues
-tvl|||Tuvalu|tuvalu
-twi||tw|Twi|twi
-tyv|||Tuvinian|touva
-udm|||Udmurt|oudmourte
-uga|||Ugaritic|ougaritique
-uig||ug|Uighur; Uyghur|ouïgour
-ukr||uk|Ukrainian|ukrainien
-umb|||Umbundu|umbundu
-und|||Undetermined|indéterminée
-urd||ur|Urdu|ourdou
-uzb||uz|Uzbek|ouszbek
-vai|||Vai|vaï
-ven||ve|Venda|venda
-vie||vi|Vietnamese|vietnamien
-vol||vo|Volapük|volapük
-vot|||Votic|vote
-wak|||Wakashan languages|wakashanes, langues
-wal|||Wolaitta; Wolaytta|wolaitta; wolaytta
-war|||Waray|waray
-was|||Washo|washo
-wel|cym|cy|Welsh|gallois
-wen|||Sorbian languages|sorabes, langues
-wln||wa|Walloon|wallon
-wol||wo|Wolof|wolof
-xal|||Kalmyk; Oirat|kalmouk; oïrat
-xho||xh|Xhosa|xhosa
-yao|||Yao|yao
-yap|||Yapese|yapois
-yid||yi|Yiddish|yiddish
-yor||yo|Yoruba|yoruba
-ypk|||Yupik languages|yupik, langues
-zap|||Zapotec|zapotèque
-zbl|||Blissymbols; Blissymbolics; Bliss|symboles Bliss; Bliss
-zen|||Zenaga|zenaga
-zgh|||Standard Moroccan Tamazight|amazighe standard marocain
-zha||za|Zhuang; Chuang|zhuang; chuang
-znd|||Zande languages|zandé, langues
-zul||zu|Zulu|zoulou
-zun|||Zuni|zuni
-zxx|||No linguistic content; Not applicable|pas de contenu linguistique; non applicable
-zza|||Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki|zaza; dimili; dimli; kirdki; kirmanjki; zazaki
+﻿aar||aa|Afar|afar|アファル語
+abk||ab|Abkhazian|abkhaze|アブハズ語
+ace|||Achinese|aceh|アチェ語
+ach|||Acoli|acoli|アチョリ語
+ada|||Adangme|adangme|アダグメ語
+ady|||Adyghe; Adygei|adyghé|アディゲ語
+afa|||Afro-Asiatic languages|afro-asiatiques, langues|アフロ・アジア語族（その他）
+afh|||Afrihili|afrihili|アフリヒリ
+afr||af|Afrikaans|afrikaans|アフリカーンス語
+ain|||Ainu|aïnou|アイヌ語
+aka||ak|Akan|akan|アカン語
+akk|||Akkadian|akkadien|アッカド語
+alb|sqi|sq|Albanian|albanais|アルバニア語
+ale|||Aleut|aléoute|アリュート語
+alg|||Algonquian languages|algonquines, langues|アルゴンキン語族
+alt|||Southern Altai|altai du Sud|南アルタイ語
+amh||am|Amharic|amharique|アムハラ語
+ang|||English, Old (ca.450-1100)|anglo-saxon (ca.450-1100)|英語，古
+anp|||Angika|angika|アンギカ語
+apa|||Apache languages|apaches, langues|アパッチ語族
+ara||ar|Arabic|arabe|アラビア語
+arc|||Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)|araméen d'empire (700-300 BCE)|アラム語
+arg||an|Aragonese|aragonais|アラゴン語
+arm|hye|hy|Armenian|arménien|アルメニア語
+arn|||Mapudungun; Mapuche|mapudungun; mapuche; mapuce|アラウコ語族
+arp|||Arapaho|arapaho|アラパホ語
+art|||Artificial languages|artificielles, langues|人工言語（その他）
+arw|||Arawak|arawak|アラワク語族
+asm||as|Assamese|assamais|アッサム語
+ast|||Asturian; Bable; Leonese; Asturleonese|asturien; bable; léonais; asturoléonais|アストゥリアス語
+ath|||Athapascan languages|athapascanes, langues|アサパスカ語族
+aus|||Australian languages|australiennes, langues|オーストラリア先住民語
+ava||av|Avaric|avar|アバール語
+ave||ae|Avestan|avestique|アベスタ語
+awa|||Awadhi|awadhi|アワディー語
+aym||ay|Aymara|aymara|アイマラ語
+aze||az|Azerbaijani|azéri|アゼルバイジャン語
+bad|||Banda languages|banda, langues|バンダ語
+bai|||Bamileke languages|bamiléké, langues|バミレケ諸語
+bak||ba|Bashkir|bachkir|バシュキール語
+bal|||Baluchi|baloutchi|バルーチー語
+bam||bm|Bambara|bambara|バンバラ語
+ban|||Balinese|balinais|バリ語
+baq|eus|eu|Basque|basque|バスク語
+bas|||Basa|basa|バサ語
+bat|||Baltic languages|baltes, langues|バルト語派（その他）
+bej|||Beja; Bedawiyet|bedja|ベジャ語
+bel||be|Belarusian|biélorusse|白ロシア語
+bem|||Bemba|bemba|ベンバ語
+ben||bn|Bengali|bengali|ベンガル語
+ber|||Berber languages|berbères, langues|ベルベル語派（その他）
+bho|||Bhojpuri|bhojpuri|ボージュプリー語
+bih||bh|Bihari languages|langues biharis|ビハール語
+bik|||Bikol|bikol|ビコル小語群
+bin|||Bini; Edo|bini; edo|ビニ語
+bis||bi|Bislama|bichlamar|ビスラマ語
+bla|||Siksika|blackfoot|ブラックフット語
+bnt|||Bantu languages|bantou, langues|バントゥ諸語（その他）
+bos||bs|Bosnian|bosniaque|ボスニア語
+bra|||Braj|braj|ブラジ語
+bre||br|Breton|breton|ブルトン語
+btk|||Batak languages|batak, langues|バタク語（インドネシア）
+bua|||Buriat|bouriate|ブリヤート語
+bug|||Buginese|bugi|ブギス語
+bul||bg|Bulgarian|bulgare|ブルガリア語
+bur|mya|my|Burmese|birman|ビルマ語
+byn|||Blin; Bilin|blin; bilen|ビリン語
+cad|||Caddo|caddo|カド語
+cai|||Central American Indian languages|amérindiennes de L'Amérique centrale, langues|インディアン諸語（その他），中米
+car|||Galibi Carib|karib; galibi; carib|カリブ語
+cat||ca|Catalan; Valencian|catalan; valencien|カタロニア語
+cau|||Caucasian languages|caucasiennes, langues|カフカース諸語（その他）
+ceb|||Cebuano|cebuano|セブアノ語
+cel|||Celtic languages|celtiques, langues; celtes, langues|ケルト語派（その他）
+cha||ch|Chamorro|chamorro|チャモロ語
+chb|||Chibcha|chibcha|チブチャ語族
+che||ce|Chechen|tchétchène|チェチェン語
+chg|||Chagatai|djaghataï|チャガタイ語
+chi|zho|zh|Chinese|chinois|中国語
+chk|||Chuukese|chuuk|トラック語
+chm|||Mari|mari|マリ語
+chn|||Chinook jargon|chinook, jargon|チヌーク・ジャーゴン
+cho|||Choctaw|choctaw|チョクトー語
+chp|||Chipewyan; Dene Suline|chipewyan|チペワイアン語
+chr|||Cherokee|cherokee|チェロキー語
+chu||cu|Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic|slavon d'église; vieux slave; slavon liturgique; vieux bulgare|教会スラブ語
+chv||cv|Chuvash|tchouvache|チュワシュ語
+chy|||Cheyenne|cheyenne|シャイアン語
+cmc|||Chamic languages|chames, langues|チャム諸語
+cnr|||Montenegrin|monténégrin|モンテネグロ語
+cop|||Coptic|copte|コプト語
+cor||kw|Cornish|cornique|コーンウォール語
+cos||co|Corsican|corse|コルシカ語
+cpe|||Creoles and pidgins, English based|créoles et pidgins basés sur l'anglais|英語系クレオル諸語及びピジン語（その他）
+cpf|||Creoles and pidgins, French-based|créoles et pidgins basés sur le français|クレオル諸語及びピジン語（その他），フランス語系
+cpp|||Creoles and pidgins, Portuguese-based|créoles et pidgins basés sur le portugais|クレオル諸語及びピジン語（その他），ポルトガル語系
+cre||cr|Cree|cree|クリー語
+crh|||Crimean Tatar; Crimean Turkish|tatar de Crimé|クリミア・タタール語
+crp|||Creoles and pidgins|créoles et pidgins|クレオル諸語及びピジン語（その他）
+csb|||Kashubian|kachoube|カシューブ語
+cus|||Cushitic languages|couchitiques, langues|クシュ語派（その他）
+cze|ces|cs|Czech|tchèque|チェコ語
+dak|||Dakota|dakota|ダコタ語
+dan||da|Danish|danois|デンマーク語
+dar|||Dargwa|dargwa|ダルグワ語
+day|||Land Dayak languages|dayak, langues|ダヤク語
+del|||Delaware|delaware|デラウエア語
+den|||Slave (Athapascan)|esclave (athapascan)|スレイビー語
+dgr|||Dogrib|dogrib|ドグリブ語
+din|||Dinka|dinka|ディンカ語
+div||dv|Divehi; Dhivehi; Maldivian|maldivien|ディベヒ語
+doi|||Dogri|dogri|ドーグリー語
+dra|||Dravidian languages|dravidiennes, langues|ドラビダ語族（その他）
+dsb|||Lower Sorbian|bas-sorabe|低地ソルブ語
+dua|||Duala|douala|ドゥアラ語
+dum|||Dutch, Middle (ca.1050-1350)|néerlandais moyen (ca. 1050-1350)|オランダ語，中期
+dut|nld|nl|Dutch; Flemish|néerlandais; flamand|オランダ語
+dyu|||Dyula|dioula|ジュラ語
+dzo||dz|Dzongkha|dzongkha|ゾンカ語
+efi|||Efik|efik|エフィック語
+egy|||Egyptian (Ancient)|égyptien|古代エジプト語
+eka|||Ekajuk|ekajuk|エカジュク語
+elx|||Elamite|élamite|エラム語
+eng||en|English|anglais|英語
+enm|||English, Middle (1100-1500)|anglais moyen (1100-1500)|英語，中期
+epo||eo|Esperanto|espéranto|エスペラント語
+est||et|Estonian|estonien|エストニア語
+ewe||ee|Ewe|éwé|エウェ語群
+ewo|||Ewondo|éwondo|エウォンド語
+fan|||Fang|fang|ファン語
+fao||fo|Faroese|féroïen|フェーロー語
+fat|||Fanti|fanti|ファンテ語
+fij||fj|Fijian|fidjien|フィジー語
+fil|||Filipino; Pilipino|filipino; pilipino|フィリピン語
+fin||fi|Finnish|finnois|フィンランド語
+fiu|||Finno-Ugrian languages|finno-ougriennes, langues|フィン・ウゴル語派（その他）
+fon|||Fon|fon|フォン語
+fre|fra|fr|French|français|フランス語
+frm|||French, Middle (ca.1400-1600)|français moyen (1400-1600)|中期フランス語
+fro|||French, Old (842-ca.1400)|français ancien (842-ca.1400)|古フランス語
+frr|||Northern Frisian|frison septentrional|北フリジア語
+frs|||Eastern Frisian|frison oriental|東フリジア語
+fry||fy|Western Frisian|frison occidental|フリジア語
+ful||ff|Fulah|peul|フラニ語
+fur|||Friulian|frioulan|フリウリ語
+gaa|||Ga|ga|ガー語
+gay|||Gayo|gayo|ガヨ語
+gba|||Gbaya|gbaya|グバヤ方言群
+gem|||Germanic languages|germaniques, langues|ゲルマン語派（その他）
+geo|kat|ka|Georgian|géorgien|グルジア語
+ger|deu|de|German|allemand|ドイツ語
+gez|||Geez|guèze|ゲエズ語
+gil|||Gilbertese|kiribati|キリバス語
+gla||gd|Gaelic; Scottish Gaelic|gaélique; gaélique écossais|高地スコットランド・ゲール語
+gle||ga|Irish|irlandais|アイルランド語
+glg||gl|Galician|galicien|ガリシア語
+glv||gv|Manx|manx; mannois|マン島語
+gmh|||German, Middle High (ca.1050-1500)|allemand, moyen haut (ca. 1050-1500)|中高ドイツ語
+goh|||German, Old High (ca.750-1050)|allemand, vieux haut (ca. 750-1050)|古高ドイツ語
+gon|||Gondi|gond|ゴーンディー語
+gor|||Gorontalo|gorontalo|ゴロンタロ語
+got|||Gothic|gothique|ゴート語
+grb|||Grebo|grebo|グレボ小語群
+grc|||Greek, Ancient (to 1453)|grec ancien (jusqu'à 1453)|ギリシア語，古代
+gre|ell|el|Greek, Modern (1453-)|grec moderne (après 1453)|ギリシア語，現代
+grn||gn|Guarani|guarani|グァラニ語
+gsw|||Swiss German; Alemannic; Alsatian|suisse alémanique; alémanique; alsacien|スイスドイツ語
+guj||gu|Gujarati|goudjrati|グジャラート語
+gwi|||Gwich'in|gwich'in|クチン語
+hai|||Haida|haida|ハイダ語
+hat||ht|Haitian; Haitian Creole|haïtien; créole haïtien|ハイチ語
+hau||ha|Hausa|haoussa|ハウサ語
+haw|||Hawaiian|hawaïen|ハワイ語
+heb||he|Hebrew|hébreu|ヘブライ語
+her||hz|Herero|herero|ヘレロ語
+hil|||Hiligaynon|hiligaynon|ヒリガイノン語
+him|||Himachali languages; Western Pahari languages|langues himachalis; langues paharis occidentales|ヒマチャリー語
+hin||hi|Hindi|hindi|ヒンディー語
+hit|||Hittite|hittite|ヒッタイト語
+hmn|||Hmong; Mong|hmong|フモン語
+hmo||ho|Hiri Motu|hiri motu|ヒリモトゥ語
+hrv||hr|Croatian|croate|クロアチア語
+hsb|||Upper Sorbian|haut-sorabe|高地ソルブ語
+hun||hu|Hungarian|hongrois|ハンガリー語
+hup|||Hupa|hupa|フーパ語
+iba|||Iban|iban|イバン語
+ibo||ig|Igbo|igbo|イグボ語
+ice|isl|is|Icelandic|islandais|アイスランド語
+ido||io|Ido|ido|イド語
+iii||ii|Sichuan Yi; Nuosu|yi de Sichuan|四川彝語
+ijo|||Ijo languages|ijo, langues|イジョー方言群
+iku||iu|Inuktitut|inuktitut|イヌイット語
+ile||ie|Interlingue; Occidental|interlingue|インターリング
+ilo|||Iloko|ilocano|イロカノ語
+ina||ia|Interlingua (International Auxiliary Language Association)|interlingua (langue auxiliaire internationale)|インターリンガ
+inc|||Indic languages|indo-aryennes, langues|インド語派（その他）
+ind||id|Indonesian|indonésien|インドネシア語
+ine|||Indo-European languages|indo-européennes, langues|インド・ヨーロッパ語族（その他）
+inh|||Ingush|ingouche|イングーシ語
+ipk||ik|Inupiaq|inupiaq|イヌピアック語
+ira|||Iranian languages|iraniennes, langues|イラン語派（その他）
+iro|||Iroquoian languages|iroquoises, langues|イロコイ語族
+ita||it|Italian|italien|イタリア語
+jav||jv|Javanese|javanais|ジャワ語
+jbo|||Lojban|lojban|ロジバン
+jpn||ja|Japanese|japonais|日本語
+jpr|||Judeo-Persian|judéo-persan|ペルシア語，ユダヤ
+jrb|||Judeo-Arabic|judéo-arabe|アラビア語，ユダヤ
+kaa|||Kara-Kalpak|karakalpak|カラカルパク語
+kab|||Kabyle|kabyle|カビール語
+kac|||Kachin; Jingpho|kachin; jingpho|カチン語
+kal||kl|Kalaallisut; Greenlandic|groenlandais|グリーンランド語
+kam|||Kamba|kamba|カンバ語
+kan||kn|Kannada|kannada|カンナダ語
+kar|||Karen languages|karen, langues|カレン語群
+kas||ks|Kashmiri|kashmiri|カシュミール語
+kau||kr|Kanuri|kanouri|カヌリ語
+kaw|||Kawi|kawi|カウィ語
+kaz||kk|Kazakh|kazakh|カザフ語
+kbd|||Kabardian|kabardien|カバルド語
+kha|||Khasi|khasi|カシ語
+khi|||Khoisan languages|khoïsan, langues|コイサン語族（その他）
+khm||km|Central Khmer|khmer central|カンボジア語
+kho|||Khotanese; Sakan|khotanais; sakan|コータン語
+kik||ki|Kikuyu; Gikuyu|kikuyu|キクユ語
+kin||rw|Kinyarwanda|rwanda|ルワンダ語
+kir||ky|Kirghiz; Kyrgyz|kirghiz|キルギス語
+kmb|||Kimbundu|kimbundu|キンブンドゥ語
+kok|||Konkani|konkani|コーンカニー語
+kom||kv|Komi|kom|コミ語
+kon||kg|Kongo|kongo|コンゴ語
+kor||ko|Korean|coréen|韓国語
+kos|||Kosraean|kosrae|コシャエ語
+kpe|||Kpelle|kpellé|クペレ語
+krc|||Karachay-Balkar|karatchai balkar|カラチャイ・バルカル語
+krl|||Karelian|carélien|カレリア語
+kro|||Kru languages|krou, langues|クルー諸語
+kru|||Kurukh|kurukh|クルク語
+kua||kj|Kuanyama; Kwanyama|kuanyama; kwanyama|クワニャマ語
+kum|||Kumyk|koumyk|クムク語
+kur||ku|Kurdish|kurde|クルド語
+kut|||Kutenai|kutenai|クーテナイ語
+lad|||Ladino|judéo-espagnol|スペイン語，ユダヤ
+lah|||Lahnda|lahnda|ラーンダー語
+lam|||Lamba|lamba|ランバ語
+lao||lo|Lao|lao|ラオ語
+lat||la|Latin|latin|ラテン語
+lav||lv|Latvian|letton|ラトビア語
+lez|||Lezghian|lezghien|レズギ語
+lim||li|Limburgan; Limburger; Limburgish|limbourgeois|リンブルフ語
+lin||ln|Lingala|lingala|リンガラ語
+lit||lt|Lithuanian|lituanien|リトアニア語
+lol|||Mongo|mongo|モンゴ語
+loz|||Lozi|lozi|ロズィ語
+ltz||lb|Luxembourgish; Letzeburgesch|luxembourgeois|ルクセンブルク語
+lua|||Luba-Lulua|luba-lulua|ルバ・ルルア小語群
+lub||lu|Luba-Katanga|luba-katanga|キルバ語
+lug||lg|Ganda|ganda|ガンダ語
+lui|||Luiseno|luiseno|ルイセーニョ語
+lun|||Lunda|lunda|ルンダ語
+luo|||Luo (Kenya and Tanzania)|luo (Kenya et Tanzanie)|ルオ語
+lus|||Lushai|lushai|ルシャイ語
+mac|mkd|mk|Macedonian|macédonien|マケドニア語
+mad|||Madurese|madourais|マドゥラ語
+mag|||Magahi|magahi|マガヒー語
+mah||mh|Marshallese|marshall|マーシャル語
+mai|||Maithili|maithili|マイティリー語
+mak|||Makasar|makassar|マカッサル語
+mal||ml|Malayalam|malayalam|マラヤーラム語
+man|||Mandingo|mandingue|マンディンゴ語
+mao|mri|mi|Maori|maori|マオリ語
+map|||Austronesian languages|austronésiennes, langues|オーストロネシア語族（その他)
+mar||mr|Marathi|marathe|マラーティー語
+mas|||Masai|massaï|マサイ語
+may|msa|ms|Malay|malais|マレー語
+mdf|||Moksha|moksa|モクシャ語
+mdr|||Mandar|mandar|マンダル語
+men|||Mende|mendé|メンデ語
+mga|||Irish, Middle (900-1200)|irlandais moyen (900-1200)|アイルランド語，中期
+mic|||Mi'kmaq; Micmac|mi'kmaq; micmac|ミクマック語
+min|||Minangkabau|minangkabau|ミナンカバウ語
+mis|||Uncoded languages|langues non codées|その他の言語
+mkh|||Mon-Khmer languages|môn-khmer, langues|モン・クメール語派（その他）
+mlg||mg|Malagasy|malgache|マラガシ語
+mlt||mt|Maltese|maltais|マルタ語
+mnc|||Manchu|mandchou|満洲語
+mni|||Manipuri|manipuri|マニプル語
+mno|||Manobo languages|manobo, langues|マノボ語群
+moh|||Mohawk|mohawk|モホーク語
+mon||mn|Mongolian|mongol|蒙古語
+mos|||Mossi|moré|モシ語
+mul|||Multiple languages|multilingue|複数言語
+mun|||Munda languages|mounda, langues|ムンダー諸語
+mus|||Creek|muskogee|クリーク語
+mwl|||Mirandese|mirandais|ミランダ語
+mwr|||Marwari|marvari|マールワーリー語
+myn|||Mayan languages|maya, langues|マヤ語族
+myv|||Erzya|erza|エルジャ語
+nah|||Nahuatl languages|nahuatl, langues|ナワトル語
+nai|||North American Indian languages|nord-amérindiennes, langues|インディアン諸語（その他），北米
+nap|||Neapolitan|napolitain|ナポリ語
+nau||na|Nauru|nauruan|ナウル語
+nav||nv|Navajo; Navaho|navaho|ナバホ語
+nbl||nr|Ndebele, South; South Ndebele|ndébélé du Sud|南ンデベレ語
+nde||nd|Ndebele, North; North Ndebele|ndébélé du Nord|北ンデベレ語
+ndo||ng|Ndonga|ndonga|ンドゥンガ語
+nds|||Low German; Low Saxon; German, Low; Saxon, Low|bas allemand; bas saxon; allemand, bas; saxon, bas|低地ドイツ語
+nep||ne|Nepali|népalais|ネパール語
+new|||Nepal Bhasa; Newari|nepal bhasa; newari|ネワール語
+nia|||Nias|nias|ニアス語
+nic|||Niger-Kordofanian languages|nigéro-kordofaniennes, langues|ニジェール・コルドファン語族（その他）
+niu|||Niuean|niué|ニウエー語
+nno||nn|Norwegian Nynorsk; Nynorsk, Norwegian|norvégien nynorsk; nynorsk, norvégien|ノルウェー語(ニーノシュク)
+nob||nb|Bokmål, Norwegian; Norwegian Bokmål|norvégien bokmål|ノルウェー語(ブークモール)
+nog|||Nogai|nogaï; nogay|ノガイ語
+non|||Norse, Old|norrois, vieux|古ノルド語
+nor||no|Norwegian|norvégien|ノルウェー語
+nqo|||N'Ko|n'ko|ンコ語
+nso|||Pedi; Sepedi; Northern Sotho|pedi; sepedi; sotho du Nord|北ソト語
+nub|||Nubian languages|nubiennes, langues|ヌビア語群
+nwc|||Classical Newari; Old Newari; Classical Nepal Bhasa|newari classique|古典ネパール・バサ語
+nya||ny|Chichewa; Chewa; Nyanja|chichewa; chewa; nyanja|チェワ語
+nym|||Nyamwezi|nyamwezi|ニャムウェズィ語
+nyn|||Nyankole|nyankolé|ニャンコレ語
+nyo|||Nyoro|nyoro|ニョロ語
+nzi|||Nzima|nzema|ンジマ語
+oci||oc|Occitan (post 1500)|occitan (après 1500)|オック語
+oji||oj|Ojibwa|ojibwa|オジブワ語
+ori||or|Oriya|oriya|オリヤー語
+orm||om|Oromo|galla|オロモ語
+osa|||Osage|osage|オセージ語
+oss||os|Ossetian; Ossetic|ossète|オセット語
+ota|||Turkish, Ottoman (1500-1928)|turc ottoman (1500-1928)|オスマン・トルコ語
+oto|||Otomian languages|otomi, langues|オトミ語
+paa|||Papuan languages|papoues, langues|パプア諸語（その他）
+pag|||Pangasinan|pangasinan|パンガシナン語
+pal|||Pahlavi|pahlavi|中期ペルシア語
+pam|||Pampanga; Kapampangan|pampangan|カパンパンガン語
+pan||pa|Panjabi; Punjabi|pendjabi|パンジャーブ語
+pap|||Papiamento|papiamento|パピアメント語
+pau|||Palauan|palau|パラオ語
+peo|||Persian, Old (ca.600-400 B.C.)|perse, vieux (ca. 600-400 av. J.-C.)|古代ペルシア語
+per|fas|fa|Persian|persan|ペルシア語
+phi|||Philippine languages|philippines, langues|フィリピン諸語（その他）
+phn|||Phoenician|phénicien|フェニキア語
+pli||pi|Pali|pali|パーリ語
+pol||pl|Polish|polonais|ポーランド語
+pon|||Pohnpeian|pohnpei|ポナペ語
+por||pt|Portuguese|portugais|ポルトガル語
+pra|||Prakrit languages|prâkrit, langues|プラークリット語
+pro|||Provençal, Old (to 1500); Occitan, Old (to 1500)|provençal ancien (jusqu'à 1500); occitan ancien (jusqu'à 1500)|プロバンス語
+pus||ps|Pushto; Pashto|pachto|パシュトー語
+qaa-qtz|||Reserved for local use|réservée à l'usage local|局地用***
+que||qu|Quechua|quechua|ケチュア語
+raj|||Rajasthani|rajasthani|ラージャスターン語
+rap|||Rapanui|rapanui|ラパヌイ語
+rar|||Rarotongan; Cook Islands Maori|rarotonga; maori des îles Cook|ラロトンガ語
+roa|||Romance languages|romanes, langues|ロマンス諸語（その他）
+roh||rm|Romansh|romanche|レト・ロマンス語
+rom|||Romany|tsigane|ロマーニー語
+rum|ron|ro|Romanian; Moldavian; Moldovan|roumain; moldave|ルーマニア語
+run||rn|Rundi|rundi|ルンディ語
+rup|||Aromanian; Arumanian; Macedo-Romanian|aroumain; macédo-roumain|アルーマニア語
+rus||ru|Russian|russe|ロシア語
+sad|||Sandawe|sandawe|サンダウェ語
+sag||sg|Sango|sango|サンゴ語
+sah|||Yakut|iakoute|ヤクート語
+sai|||South American Indian languages|sud-amérindiennes, langues|インディアン諸語（その他），南米
+sal|||Salishan languages|salishennes, langues|セイリッシュ語族
+sam|||Samaritan Aramaic|samaritain|アラム語，サマリア
+san||sa|Sanskrit|sanskrit|サンスクリット語
+sas|||Sasak|sasak|ササク語
+sat|||Santali|santal|サンタール語
+scn|||Sicilian|sicilien|シチリア語
+sco|||Scots|écossais|スコットランド・ゲール語，低地
+sel|||Selkup|selkoupe|セリクプ語
+sem|||Semitic languages|sémitiques, langues|セム語族（その他）
+sga|||Irish, Old (to 900)|irlandais ancien (jusqu'à 900)|アイルランド語，古
+sgn|||Sign Languages|langues des signes|手話言語
+shn|||Shan|chan|シャン語
+sid|||Sidamo|sidamo|シダモ語
+sin||si|Sinhala; Sinhalese|singhalais|シンハラ語
+sio|||Siouan languages|sioux, langues|スー語族
+sit|||Sino-Tibetan languages|sino-tibétaines, langues|シナ・チベット語族（その他）
+sla|||Slavic languages|slaves, langues|スラブ語派（その他）
+slo|slk|sk|Slovak|slovaque|スロバキア語
+slv||sl|Slovenian|slovène|スロベニア語
+sma|||Southern Sami|sami du Sud|南部サーミ語
+sme||se|Northern Sami|sami du Nord|北部サーミ語
+smi|||Sami languages|sames, langues|サーミ語
+smj|||Lule Sami|sami de Lule|ルレ・サーミ語
+smn|||Inari Sami|sami d'Inari|イナリ・サーミ語
+smo||sm|Samoan|samoan|サモア語
+sms|||Skolt Sami|sami skolt|スコルト・サーミ語
+sna||sn|Shona|shona|ショナ語
+snd||sd|Sindhi|sindhi|シンド語
+snk|||Soninke|soninké|ソニンケ語
+sog|||Sogdian|sogdien|ソグド語
+som||so|Somali|somali|ソマリ語
+son|||Songhai languages|songhai, langues|ソンガイ語
+sot||st|Sotho, Southern|sotho du Sud|ソト語，南
+spa||es|Spanish; Castilian|espagnol; castillan|スペイン語
+srd||sc|Sardinian|sarde|サルデーニャ語
+srn|||Sranan Tongo|sranan tongo|スラナン語
+srp||sr|Serbian|serbe|セルビア語
+srr|||Serer|sérère|セレル語
+ssa|||Nilo-Saharan languages|nilo-sahariennes, langues|ナイル・サハラ言語群（その他）
+ssw||ss|Swati|swati|スワティ語
+suk|||Sukuma|sukuma|スクマ語
+sun||su|Sundanese|soundanais|スンダ語
+sus|||Susu|soussou|スス語
+sux|||Sumerian|sumérien|シュメール語
+swa||sw|Swahili|swahili|スワヒリ語
+swe||sv|Swedish|suédois|スウェーデン語
+syc|||Classical Syriac|syriaque classique|古典シリア語
+syr|||Syriac|syriaque|シリア語
+tah||ty|Tahitian|tahitien|タヒチ語
+tai|||Tai languages|tai, langues|タイ諸語（その他）
+tam||ta|Tamil|tamoul|タミル語
+tat||tt|Tatar|tatar|タタール語
+tel||te|Telugu|télougou|テルグ語
+tem|||Timne|temne|テムネ語
+ter|||Tereno|tereno|テレーノ語
+tet|||Tetum|tetum|テトゥン語
+tgk||tg|Tajik|tadjik|タジク語
+tgl||tl|Tagalog|tagalog|タガログ語
+tha||th|Thai|thaï|タイ語
+tib|bod|bo|Tibetan|tibétain|チベット語
+tig|||Tigre|tigré|ティグレ語
+tir||ti|Tigrinya|tigrigna|ティグリニア語
+tiv|||Tiv|tiv|ティブ語
+tkl|||Tokelau|tokelau|トケラウ語
+tlh|||Klingon; tlhIngan-Hol|klingon|クリンゴン語
+tli|||Tlingit|tlingit|トリンギット語
+tmh|||Tamashek|tamacheq|トゥアレグ語
+tog|||Tonga (Nyasa)|tonga (Nyasa)|トンガ語（ニヤサ地方）
+ton||to|Tonga (Tonga Islands)|tongan (Îles Tonga)|トンガ語（トンガ諸島）
+tpi|||Tok Pisin|tok pisin|トク・ピシン
+tsi|||Tsimshian|tsimshian|ツィムシアン語
+tsn||tn|Tswana|tswana|ツワナ語
+tso||ts|Tsonga|tsonga|ツォンガ語
+tuk||tk|Turkmen|turkmène|トルクメン語
+tum|||Tumbuka|tumbuka|トゥンブカ語
+tup|||Tupi languages|tupi, langues|トゥピ語
+tur||tr|Turkish|turc|トルコ語
+tut|||Altaic languages|altaïques, langues|アルタイ諸言語（その他）
+tvl|||Tuvalu|tuvalu|ツバル語
+twi||tw|Twi|twi|チュイ語
+tyv|||Tuvinian|touva|トゥワ語
+udm|||Udmurt|oudmourte|ウドムルト語
+uga|||Ugaritic|ougaritique|ウガリト語
+uig||ug|Uighur; Uyghur|ouïgour|ウイグル語
+ukr||uk|Ukrainian|ukrainien|ウクライナ語
+umb|||Umbundu|umbundu|ウンブンドゥ語
+und|||Undetermined|indéterminée|不明言語
+urd||ur|Urdu|ourdou|ウルドゥー語
+uzb||uz|Uzbek|ouszbek|ウズベク語
+vai|||Vai|vaï|バイ語
+ven||ve|Venda|venda|ベンダ語
+vie||vi|Vietnamese|vietnamien|ベトナム語
+vol||vo|Volapük|volapük|ボラピューク語
+vot|||Votic|vote|ボート語
+wak|||Wakashan languages|wakashanes, langues|ワカシュ語族
+wal|||Wolaitta; Wolaytta|wolaitta; wolaytta|ワッラモ語
+war|||Waray|waray|ワライ語
+was|||Washo|washo|ワショ語
+wel|cym|cy|Welsh|gallois|ウェールズ語
+wen|||Sorbian languages|sorabes, langues|ソルブ語
+wln||wa|Walloon|wallon|ワロン語
+wol||wo|Wolof|wolof|ウォロフ語
+xal|||Kalmyk; Oirat|kalmouk; oïrat|カルムイク語
+xho||xh|Xhosa|xhosa|コサ語
+yao|||Yao|yao|ヤオ語
+yap|||Yapese|yapois|ヤップ語
+yid||yi|Yiddish|yiddish|イディッシュ語
+yor||yo|Yoruba|yoruba|ヨルバ語
+ypk|||Yupik languages|yupik, langues|ユピック語
+zap|||Zapotec|zapotèque|サポテック語
+zbl|||Blissymbols; Blissymbolics; Bliss|symboles Bliss; Bliss|ブリスシンボル
+zen|||Zenaga|zenaga|ゼナガ語
+zgh|||Standard Moroccan Tamazight|amazighe standard marocain|標準モロッコ・タマジクト語
+zha||za|Zhuang; Chuang|zhuang; chuang|チュワン語
+znd|||Zande languages|zandé, langues|ザンデ語
+zul||zu|Zulu|zoulou|ズールー語
+zun|||Zuni|zuni|ズニ語
+zxx|||No linguistic content; Not applicable|pas de contenu linguistique; non applicable|言語ではない
+zza|||Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki|zaza; dimili; dimli; kirdki; kirmanjki; zazaki|ザザキ語
